@@ -3,4 +3,4 @@ Pipeline do Azure DevOps para execução automatizada de testes a partir de um c
 
 Projeto que serviu de base para a implementação deste Pipeline:
 
-https://github.com/renatogroffe/ASPNETCore5-REST_API-xUnit-Coverlet-Containers_CalculoIMC
+https://github.com/azurenapratica/ASPNETCore5-REST_API-xUnit-Coverlet-Containers_CalculoIMC
